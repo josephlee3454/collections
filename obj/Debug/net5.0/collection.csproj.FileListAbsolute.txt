@@ -1,0 +1,16 @@
+/home/owner/dojo/c#colections/collection/bin/Debug/net5.0/collection
+/home/owner/dojo/c#colections/collection/bin/Debug/net5.0/collection.deps.json
+/home/owner/dojo/c#colections/collection/bin/Debug/net5.0/collection.runtimeconfig.json
+/home/owner/dojo/c#colections/collection/bin/Debug/net5.0/collection.runtimeconfig.dev.json
+/home/owner/dojo/c#colections/collection/bin/Debug/net5.0/collection.dll
+/home/owner/dojo/c#colections/collection/bin/Debug/net5.0/ref/collection.dll
+/home/owner/dojo/c#colections/collection/bin/Debug/net5.0/collection.pdb
+/home/owner/dojo/c#colections/collection/obj/Debug/net5.0/collection.csprojAssemblyReference.cache
+/home/owner/dojo/c#colections/collection/obj/Debug/net5.0/collection.GeneratedMSBuildEditorConfig.editorconfig
+/home/owner/dojo/c#colections/collection/obj/Debug/net5.0/collection.AssemblyInfoInputs.cache
+/home/owner/dojo/c#colections/collection/obj/Debug/net5.0/collection.AssemblyInfo.cs
+/home/owner/dojo/c#colections/collection/obj/Debug/net5.0/collection.csproj.CoreCompileInputs.cache
+/home/owner/dojo/c#colections/collection/obj/Debug/net5.0/collection.dll
+/home/owner/dojo/c#colections/collection/obj/Debug/net5.0/ref/collection.dll
+/home/owner/dojo/c#colections/collection/obj/Debug/net5.0/collection.pdb
+/home/owner/dojo/c#colections/collection/obj/Debug/net5.0/collection.genruntimeconfig.cache
